@@ -103,7 +103,7 @@ AI-powered healthcare application for early tuberculosis detection and diagnosis
 
 <br>
 
-[🌐 Visit Project](#)
+[🌐 Visit Project](https://www.kelseyshomestay.com/)
 
 <br>
 
