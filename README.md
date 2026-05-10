@@ -43,6 +43,35 @@ I’m a passionate developer and designer who enjoys creating modern, responsive
 
 ---
 
+# 🌟 Featured Projects
+
+## 🏡 Kelsey's Homestay *(2025–2026)*
+
+A modern full-stack homestay booking platform localized for Davao City, designed to provide users with a seamless experience in discovering and reserving accommodations. The system focuses on responsive UI design, efficient booking management, and smooth user interaction.
+
+### 🔧 Tech Stack
+`React` • `Tailwind CSS` • `TypeScript` • `MySQL` • `Next.js`
+
+---
+
+## 🩺 Tbhon *(2026)*
+
+An innovative healthcare application designed for the early detection and diagnosis of tuberculosis using machine learning and AI prediction models. The application analyzes cough audio recordings and sputum smear images to assist in identifying possible TB cases, aiming to improve accessibility to early screening tools.
+
+### 🔧 Tech Stack
+`React Native` • `NativeWind` • `Machine Learning` • `AI Prediction Models`
+
+---
+
+## 🖥️ ByteRush *(2026)*
+
+A full-stack e-commerce platform focused on buying and browsing computer components and hardware. The website features a modern and responsive interface, allowing users to explore products efficiently while providing a smooth online shopping experience.
+
+### 🔧 Tech Stack
+`React` • `Tailwind CSS` • `Next.js`
+
+---
+
 # 📊 Developer Focus
 
 ```text
