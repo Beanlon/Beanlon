@@ -46,17 +46,6 @@ I’m a passionate developer and designer who enjoys creating modern, responsive
 
 ---
 
-# 📊 Developer Focus
-
-```text
-UI/UX Design        ██████████████░░░ 90%
-Front-End Dev       █████████████░░░░ 85%
-Web Development     ████████████░░░░░ 80%
-App Development     ███████████░░░░░░ 75%
-```
-
----
-
 # 🌟 Featured Projects
 
 <table>
